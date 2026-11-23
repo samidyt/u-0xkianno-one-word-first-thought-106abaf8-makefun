@@ -1,8 +1,8 @@
 # One Word, First Thought — `kummerspeck`
 
-[![Bounty](https://img.shields.io/badge/bounty-One%20Word%2C%20First%20Thought-blue)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
-[![make.fun](https://img.shields.io/badge/built%20on-make.fun-green)](https://make.fun/r/samidyt)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/samidyt/u-0xkianno-one-word-first-thought-106abaf8-makefun/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/samidyt/u-0xkianno-one-word-first-thought-106abaf8-makefun/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
 Entry for the [One Word, First Thought](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8) bounty on make.fun.
 
